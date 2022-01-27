@@ -6,5 +6,5 @@ always sets the foreground color to the fewest number of pixels in an 8 pixel bl
 this would invert the foreground and background colors, then this tool will flip it back
 around to the original order.
 
-You'll find a binary included with the TIVidConvert(https://github.com/tursilion/tividconvert) toolchain.
+You'll find a binary included with the [TIVidConvert](https://github.com/tursilion/tividconvert) toolchain.
 
